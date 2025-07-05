@@ -5,6 +5,7 @@
 [![Code Style](https://img.shields.io/badge/code%20style-PSR--12-blue.svg)](https://www.php-fig.org/psr/psr-12/)
 [![Issues](https://img.shields.io/github/issues/barns101/GoogleAnalyticsEvent)](https://github.com/barns101/GoogleAnalyticsEvent/issues)
 [![Stars](https://img.shields.io/github/stars/barns101/GoogleAnalyticsEvent?style=social)](https://github.com/barns101/GoogleAnalyticsEvent)
+[![Forks](https://img.shields.io/github/forks/barns101/GoogleAnalyticsEvent)](https://github.com/barns101/GoogleAnalyticsEvent)
 
 > A lightweight PHP class to send server-side GA4 events using the Measurement Protocol.
 
