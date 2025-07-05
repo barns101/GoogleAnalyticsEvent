@@ -40,7 +40,7 @@ private string $apiSecret = '';
 private string $measurementId = '';
 ```
 
-You must set these values from your [Google Analytics 4 property](https://support.google.com/analytics/answer/9304153?hl=en), and create a [Measurement Protocol API secret](https://support.google.com/analytics/answer/9267744?hl=en).
+You must set these values from your [Google Analytics 4 property](https://support.google.com/analytics/answer/9304153?hl=en), and create a Measurement Protocol API secret.
 
 ---
 
@@ -80,4 +80,3 @@ Have a question, bug report, or feature idea? [Open an issue](https://github.com
 
 ## 📊 Related Links
 - [GA4 Measurement Protocol Documentation](https://developers.google.com/analytics/devguides/collection/protocol/ga4)
-- [How to create GA4 API Secret](https://support.google.com/analytics/answer/9267744?hl=en)
